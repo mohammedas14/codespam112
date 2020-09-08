@@ -2,8 +2,8 @@
 //copyright © Angry Black 2020.//❦Angry Black❦
 
 const Discord = require("discord.js"); 
-const myid = ['ID']; //هنا بتحط الايدى بتاعك بتاع الديسكورد
-const prefix = ['$']; 
+const myid = ['716946561929838632']; //هنا بتحط الايدى بتاعك بتاع الديسكورد
+const prefix = ['-']; 
 const cmd = require("node-cmd") 
 const client = new Discord.Client(); 
 const client2 = new Discord.Client(); 
@@ -14,7 +14,7 @@ const client6 = new Discord.Client();
 
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: POULAZ (Angry Black)
 
-client.login(""); 
+client.login("NzUyNzk1OTQxMjA3MTQ2NTY2.X1dF7w.L6XecFcmGPZdxN4PeYtC2sAkSnk"); 
 client2.login(""); 
 client3.login(""); 
 client4.login(""); 
