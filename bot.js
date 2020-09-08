@@ -15,7 +15,7 @@ const client6 = new Discord.Client();//Angry Black
 //✠▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬ஜ☢❦۞❦☢ஜ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬✠//BY: VZX (Angry Black)//POULAZ
 
 //copyright © Angry Black 2020.//❦Angry Black❦
-client.login(process.env.TOKEN);//Angry Black
+client.login(NzUyNzg0NjA1NDAwMTM3NzQ4.X1cujg.ZJl9koinD9D19Ei_Q2T0gsox8MA);//Angry Black
 client2.login(process.env.TOKEN2);//Angry Black
 client3.login(process.env.TOKEN3);//Angry Black
 client4.login(process.env.TOKEN4);//Angry Black
