@@ -11,7 +11,8 @@
     "fs": "^0.0.2",
     "node-opus": "^0.2.7",
     "opusscript": "0.0.6",
-  "request": "^2.85.0"
+    "node-cmd": "^3.0.0",
+    "request": "^2.85.0"
   },
   "engines": {
     "node": "8.x"
